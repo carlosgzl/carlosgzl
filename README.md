@@ -11,13 +11,16 @@ Tengo también debilidad por la historia: me da una perspectiva poco habitual pa
 ## 🛠️ Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 🚀 Proyectos destacados
 
@@ -33,12 +36,13 @@ Otros proyectos en los que he trabajado (privados por ahora):
 
 - **Sistema de gestión ganadera** para PTV Telecom — control de alimentación de +1.000 cabezas de ganado en 10 explotaciones, con panel de informes. `Laravel` · `PHP`
 - **El Gran Pujón** — ecosistema de subastas históricas con sincronización masiva, mi Proyecto Fin de Grado. `React` · `PHP` · `MySQL`
-- **Web institucional** para el Ayuntamiento de Peñarroya-Pueblonuevo.
+- **Web institucional** para el Ayuntamiento de Peñarroya-Pueblonuevo. `Next.js` · `TypeScript` · `Tailwind CSS`
 - **Portal de Emergencias** — web para un cuerpo de bomberos optimizada para alta disponibilidad, actualmente en desarrollo. `React` · `Tailwind` · `Firebase`
 
 ## 🧭 Trayectoria
 
 - **2025 – actualidad** · Desarrollador Web Full-Stack en **PTV Telecom** (Córdoba) — aplicaciones críticas internas, frontend + base de datos.
+- **Marzo 2026 – Agosto 2026** · Renovación de la web institucional del **Ayuntamiento de Peñarroya-Pueblonuevo** — desarrollo frontend con Next.js, TypeScript y Tailwind CSS.
 - **2024** · **Bierkönig** (Mallorca) — atención al cliente internacional en un entorno dinámico y multicultural.
 - **2023** · Erasmus en **Studio Visio** (Florencia, Italia) — técnico en hardware y sistemas audiovisuales.
 - **2023–2025** · Grado Superior en Desarrollo de Aplicaciones Web (DAW) — I.E.S. Florencio Pintado.
