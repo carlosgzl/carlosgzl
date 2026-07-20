@@ -30,7 +30,7 @@ Enciclopedia interactiva sobre las batallas que forjaron el mundo: un globo terr
 
 `React` · `Vite` · `Three.js / WebGL` · `Wikidata`
 
-🔗 Demo: [chronica-kappa.vercel.app](https://chronica-kappa.vercel.app)
+🔗 Demo: [chronica-cga.vercel.app](https://chronica-cga.vercel.app)
 
 Otros proyectos en los que he trabajado (privados por ahora):
 
@@ -41,8 +41,8 @@ Otros proyectos en los que he trabajado (privados por ahora):
 
 ## 🧭 Trayectoria
 
-- **Marzo 2026 – Agosto 2026** · Renovación de la web institucional del **Ayuntamiento de Peñarroya-Pueblonuevo** — desarrollo frontend con Next.js, TypeScript y Tailwind CSS.
 - **2025** · Desarrollador Web Full-Stack en **PTV Telecom** (Córdoba) — aplicaciones críticas internas, frontend + base de datos.
+- **Marzo 2026 – Agosto 2026** · Renovación de la web institucional del **Ayuntamiento de Peñarroya-Pueblonuevo** — desarrollo frontend con Next.js, TypeScript y Tailwind CSS.
 - **2024** · **Bierkönig** (Mallorca) — atención al cliente internacional en un entorno dinámico y multicultural.
 - **2023** · Erasmus en **Studio Visio** (Florencia, Italia) — técnico en hardware y sistemas audiovisuales.
 - **2023–2025** · Grado Superior en Desarrollo de Aplicaciones Web (DAW) — I.E.S. Florencio Pintado.
