@@ -25,21 +25,11 @@ Tengo también debilidad por la historia: me da una perspectiva poco habitual pa
 
 ## 🚀 Proyectos destacados
 
-### 📚 Alexandria
-
-Mi biblioteca personal, y el proyecto más grande que tengo. Notas en Markdown compatibles con Obsidian, con grafo de enlaces y buscador; y alrededor, todo lo que llevo apuntado en algún sitio: los libros que leo, el cine, el entrenamiento, la ruta de ciberseguridad, los pisos que busco y los papeles que necesito llevar encima.
-
-Lo interesante no es la lista de secciones, es **cómo sobrevive a que apague el ordenador**. Markdown es la fuente de verdad y vive en mi disco; una copia cifrada en el navegador (AES-256-GCM, clave derivada con PBKDF2) viaja a la nube para poder leerla desde cualquier parte; y lo que escribo con el PC apagado se encola cifrado y se aplica a los ficheros de verdad cuando vuelve. Netlify nunca ve un byte legible. Desde 2026 hay además una *edge function* que exige sesión **antes** de servir nada: sin llave no se descarga ni el código de la aplicación.
-
-`Next.js` · `NestJS` · `TypeScript` · `pnpm + Turborepo` · `Web Crypto` · `Netlify Functions`
-
-🔒 Repositorio privado — es mi biblioteca de verdad.
-
-### ✒️ [Pliego](https://pliego-cga.netlify.app)
+### ✒️ [Pliego](https://github.com/carlosgzl/pliego)
 
 Un sitio para escribir libros. Escribes arriba y **las páginas se componen debajo, de verdad**: el manuscrito se dispone como un flujo multicolumna cuya columna es exactamente la caja de texto de una página, así que el número de páginas no es una estimación — son los cortes de línea del propio navegador. Con su tipografía, sus márgenes en milímetros, su capitular, sus cornisas y su portada, y exportable a un HTML con `@page` al tamaño real para imprimir.
 
-Cada libro es **un solo fichero Markdown** que se abre en Obsidian, y comparte biblioteca con Alexandria a través de su misma API: se escribe aquí y se lee en los dos sitios. Se puede entrar a mirar sin cuenta, con un libro de muestra.
+Cada libro es **un solo fichero Markdown** que se abre en Obsidian: se escribe aquí y se lee allí, sin conversiones ni exportaciones de por medio. Se puede entrar a mirar sin cuenta, con un libro de muestra.
 
 `Vite` · `React 19` · `TypeScript` · `CSS a mano` · `Netlify Functions`
 
